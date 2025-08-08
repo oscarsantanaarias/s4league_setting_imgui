@@ -1,3 +1,5 @@
+(I ADDED A LOT OF FILES IN ROOT RANDOMLY)
+
 Hello, here is an Imgui of a setting menu for S4League, current settings working FOV/FPS edit, you must put into the client folder the config.json
 in this folder, and must use the below DLL named: fps.dll the fps.dll will fix the physics and unlock fps and the menu will allow you to edit in Game by pressing DEL to open and close the menu.
 
