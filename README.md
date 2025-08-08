@@ -12,4 +12,5 @@ You must install: https://www.microsoft.com/en-us/download/details.aspx?id=6812 
 
 I will leave below a folder name: Compiled DLLs with the Imgui and fps.dll in case don't want to compile yourself.
 
+I am still working on the other screen settings.
 
